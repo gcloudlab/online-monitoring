@@ -14,8 +14,8 @@ status-website:
   baseUrl: /online-monitoring
   logoUrl: https://avatars.githubusercontent.com/u/108776134
   name: GCloud
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**GCloud云盘** 性能监控平台."
+  introMessage: GCloud 云盘 ([here](https://gcloud.website/)) 是一款在线云盘服务网站，提供文件资源存储、转存等便捷功能。
   navbar:
     - title: Status
       href: /app
