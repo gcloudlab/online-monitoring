@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /online-monitoring
-  logoUrl: https://avatars.githubusercontent.com/u/108776134
+  logoUrl: https://img-yesmore.vercel.app//gcloud/gcloudx.png
   name: GCloud
   introTitle: "**GCloud云盘** 性能监控平台."
   introMessage: GCloud 云盘 (![](https://visitor-badge.glitch.me/badge?page_id=gcloud.app) [here](https://gcloud.website/)) 是一款在线云盘服务网站，提供文件资源存储、转存等便捷功能。
