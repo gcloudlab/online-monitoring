@@ -15,12 +15,14 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/108776134
   name: GCloud
   introTitle: "**GCloud云盘** 性能监控平台."
-  introMessage: GCloud 云盘 ([here](https://gcloud.website/)) 是一款在线云盘服务网站，提供文件资源存储、转存等便捷功能。
+  introMessage: GCloud 云盘 ([here](https://gcloud.website/)) 是一款在线云盘服务网站，提供文件资源存储、转存等便捷功能。![](https://visitor-badge.glitch.me/badge?page_id=gcloud.app)
   navbar:
     - title: Status
       href: /app
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: GCloud Online
+      href: https://gcloud.website
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
