@@ -19,7 +19,7 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: GCloud Online 
+    - title: Online 
       href: https://gcloud.website
 
 # Upptime also supports notifications, assigning issues, and more
