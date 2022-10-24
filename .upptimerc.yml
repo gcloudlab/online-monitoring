@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://img-yesmore.vercel.app//gcloud/gcloudx.png
   name: GCloud
   introTitle: "**GCloud云盘** 性能监控平台."
-  introMessage: GCloud 云盘 ([here](https://gcloud.website/)) 是一款在线云盘服务网站，提供文件资源存储、转存等便捷功能。<hr> ![](https://visitor-badge.glitch.me/badge?page_id=gcloud.app) ![](https://img.shields.io/github/stars/yesmore/gcloud-app.svg?logo=github&style=flat-square)
+  introMessage: GCloud 云盘 ([here](https://gcloud.website/)) 是一款在线云盘服务网站，提供文件资源存储、转存等便捷功能。<hr> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgcloud.website%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true) ![](https://img.shields.io/github/stars/yesmore/gcloud-app.svg?logo=github&style=flat-square)
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
