@@ -4,17 +4,19 @@
     "url": "https://gcloud.website",
     "icon": "https://icons.duckduckgo.com/ip3/gcloud.website.ico",
     "slug": "g-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 254,
-    "timeWeek": 376,
+    "timeDay": 294,
+    "timeWeek": 371,
     "timeMonth": 324,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   }
 ]
