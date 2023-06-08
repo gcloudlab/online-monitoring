@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gcloud.website.ico",
     "slug": "g-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 294,
-    "timeWeek": 371,
-    "timeMonth": 324,
-    "timeYear": 295,
+    "uptime": "99.66%",
+    "uptimeDay": "7.35%",
+    "uptimeWeek": "86.76%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "99.66%",
+    "time": 294,
+    "timeDay": 249,
+    "timeWeek": 329,
+    "timeMonth": 325,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-06-07": 0
+      "2023-06-08": 107,
+      "2023-06-07": 1227
     }
   }
 ]
